@@ -1,0 +1,17 @@
+{
+  "name": "spelling-checker-project",
+  "version": "1.0.0",
+  "main": "spelling_test.spec.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "playwright": "^1.51.1",
+    "typo-js": "^1.2.5",
+    "@playwright/test": "^1.51.1"
+  }
+}
